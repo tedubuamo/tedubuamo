@@ -8,7 +8,7 @@
 
 **Open to internships and collaborative projects**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge)](https://github.com/tedubuamo?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge)](https://tedubuamo.github.io/portofolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ardiansyah-indra-febrianto/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-30363D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrardi92@gmail.com)
 
